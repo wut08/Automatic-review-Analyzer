@@ -1,6 +1,6 @@
 # Automatic-review-Analyzer
 
-This project designed a classifier to use for sentiment analysis of product reviews. 
+This project designed a classifier to use for sentiment analysis of product reviews as part of my coursework at MIT. 
 
 Our training set consists of reviews written by Amazon customers for various food products. 
 
